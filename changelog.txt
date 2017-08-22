@@ -1,0 +1,10 @@
+1.0.2:
+	Introduced "fast down" feature
+	Only the lowest row of new blocks inside the well
+	Fixed couple of bugs
+	
+1.0.1:
+	Fixed couple of bugs
+	
+1.0.0:
+	Initial release.

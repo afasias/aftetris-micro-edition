@@ -1,0 +1,8 @@
+MIDlet-1: Aftetris,,com.giannistsakiris.aftetris.me.Aftetris
+MIDlet-Icon: /icon.png
+MIDlet-Jar-URL: Aftetris.jar
+MIDlet-Name: Aftetris
+MIDlet-Vendor: Giannis Tsakiris
+MIDlet-Version: 1.0.2
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-2.0
